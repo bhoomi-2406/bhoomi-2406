@@ -10,9 +10,11 @@ I enjoy building modern full-stack web applications with clean UI, real-world fu
 
 ---
 
-## 🚀 Currently Working On
+## 🌟 Featured Project
 
 🌍 **Wanderlust**
+
+![Wanderlust Home](https://raw.githubusercontent.com/bhoomi-2406/wanderlust/main/screenshots/home.png)
 
 A production-ready MERN application that combines accommodation booking with AI-powered travel planning, real-time weather insights, interactive maps, and intelligent travel assistance.
 
