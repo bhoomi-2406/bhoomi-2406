@@ -12,7 +12,9 @@ I enjoy building modern full-stack web applications with clean UI, real-world fu
 
 ## 🚀 Currently Working On
 
-🌍 **Wanderlust** – A Smart Travel & Accommodation Platform
+🌍 **Wanderlust**
+
+A production-ready MERN application that combines accommodation booking with AI-powered travel planning, real-time weather insights, interactive maps, and intelligent travel assistance.
 
 A production-ready MERN application featuring:
 
@@ -42,12 +44,12 @@ A production-ready MERN application featuring:
 
 ---
 
-## 🌱 Currently Learning
+## 🎯 Current Focus
 
-- Advanced MERN Development
-- Data Structures & Algorithms
-- REST APIs
-- System Design Fundamentals
+- Building production-ready MERN applications
+- Strengthening Data Structures & Algorithms
+- Learning scalable backend architecture
+- Preparing for Software Development internships
 
 ---
 
